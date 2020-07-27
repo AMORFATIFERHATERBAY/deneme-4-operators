@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/deneme-4-operators/bin/Debug/netcoreapp3.1/deneme-4-operators.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme-4-operators/bin/Debug/netcoreapp3.1/deneme-4-operators.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme-4-operators/bin/Debug/netcoreapp3.1/deneme-4-operators.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme-4-operators/bin/Debug/netcoreapp3.1/deneme-4-operators.dll
+/Users/amorfati/Desktop/dotnet-deneme/deneme-4-operators/bin/Debug/netcoreapp3.1/deneme-4-operators.pdb
+/Users/amorfati/Desktop/dotnet-deneme/deneme-4-operators/obj/Debug/netcoreapp3.1/deneme-4-operators.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme-4-operators/obj/Debug/netcoreapp3.1/deneme-4-operators.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme-4-operators/obj/Debug/netcoreapp3.1/deneme-4-operators.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/deneme-4-operators/obj/Debug/netcoreapp3.1/deneme-4-operators.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme-4-operators/obj/Debug/netcoreapp3.1/deneme-4-operators.dll
+/Users/amorfati/Desktop/dotnet-deneme/deneme-4-operators/obj/Debug/netcoreapp3.1/deneme-4-operators.pdb
+/Users/amorfati/Desktop/dotnet-deneme/deneme-4-operators/obj/Debug/netcoreapp3.1/deneme-4-operators.genruntimeconfig.cache

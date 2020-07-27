@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "deneme-4-operators/1.0.0": {
+        "runtime": {
+          "deneme-4-operators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "deneme-4-operators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
